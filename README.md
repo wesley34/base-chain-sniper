@@ -34,7 +34,7 @@ Go on https://basesniper.co/ and download it!
 
 ## 💎 Details :)
 
-<img src="https://i.imgur.com/an6JToL.png" width="200"/>
+<img src="https://i.imgur.com/an6JToL.png" width="800"/>
 
 ## 🤝 Sponsors
 
